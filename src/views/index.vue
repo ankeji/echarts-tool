@@ -4,19 +4,19 @@
  * @Author: ankeji
  * @Date: 2020-06-29 17:07:10
  * @LastEditors: ankeji
- * @LastEditTime: 2020-06-29 17:56:38
+ * @LastEditTime: 2020-11-20 10:53:40
 --> 
 <!-- 首页 -->
 <template>
   <div class="index">
     <div class="cover-main">
       <div class="automation">
-        <span>cdom</span>
+        <span>ECharts-Tool</span>
       </div>
-      <p class="detail">前端自掘坟墓，一个可以让你脱离css写页面的可视化工具库</p>
+      <p class="detail">ECharts可视化调试工具</p>
       <div class="start">
         <div>
-          <a href="https://github.com/ankeji/cdomjs" target="_blank">项目地址</a>
+          <a href="https://github.com/ankeji/echarts-tool" target="_blank">项目地址</a>
         </div>
         <div>
           <router-link to="/page">开始使用</router-link>
